@@ -46,3 +46,5 @@ Using **Crow’s Foot Notation**, the project outlines a secure schema to preven
 - Enforcing Referential Integrity through Foreign Key constraints.
 
 ## ⚖️ Legal Disclaimer
+- Everything was done legally and no illgal actions where commited
+- Please do NOT steal my work or i will report you 😊
